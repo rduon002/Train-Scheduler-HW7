@@ -1,0 +1,72 @@
+body {
+    background-image: url("../images/cropped-1440-900-443665.jpg");
+    text-align: center;
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.jumbotron {
+    text-shadow: 4px 3px aliceblue;
+    border-radius: 10px;
+    border-style: solid; color: teal;
+    padding-top: 30px;
+}
+
+p {
+    font-size: 25px;
+    color: crimson;
+}
+.container {
+    border-style: solid; color: teal;
+    padding: 15px;
+    background-color: black;
+    }
+
+.panel-heading {
+    border-radius: 10px;
+}
+
+.panel-body {
+    background-color: whitesmoke;
+    border-style: solid; color: black;
+}
+
+.panel-title {
+    font-size: 25px; 
+    background-color:white;   
+    padding: 15px;
+}
+
+label {
+    font-size: 18px;
+}
+
+table {
+    background-color: aliceblue;
+}
+
+thead {
+    background-color: crimson; 
+}
+
+th {
+    font-size: 18px;
+}
+
+form {
+    text-align: left;
+    padding: 15px;
+}
+
+form input {
+    background-color: aliceblue;
+}
+
+.btn-warning {
+    color: white;
+    background-color: teal;
+    border-color:black;
